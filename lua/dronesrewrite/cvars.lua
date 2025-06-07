@@ -87,7 +87,6 @@ if CLIENT then
 	DRONES_REWRITE.ClientCVars.QuickSel = CreateClientConVar("dronesrewrite_cl_quickwepsel", "0", true, false)
 	DRONES_REWRITE.ClientCVars.NoMuzzleFlash = CreateClientConVar("dronesrewrite_cl_dismuzzleflash", "0", true, false)
 	DRONES_REWRITE.ClientCVars.DrawAttachments = CreateClientConVar("dronesrewrite_cl_drawattachments", "0", true, false)
-	DRONES_REWRITE.ClientCVars.DisableHell = CreateClientConVar("dronesrewrite_cl_nohell", "0", true, false)
 
 	DRONES_REWRITE.ClientCVars.WvCamOrientation = CreateClientConVar("dronesrewrite_cl_wvcamorientation", "Right", true, true)
 
