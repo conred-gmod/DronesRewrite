@@ -5,7 +5,7 @@ ENT.PrintName = "Hunter-Chopper"
 ENT.Spawnable = true
 ENT.AdminSpawnable = true
 ENT.Category = "Drones Rewrite"
-ENT.AdminOnly = true
+ENT.CONRED_TrustedOnly = true
 ENT.SpawnHeight = 128
 
 ENT.UNIT = "HC"

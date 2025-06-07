@@ -4,7 +4,7 @@ ENT.PrintName = "Mothership"
 ENT.Spawnable = true
 ENT.AdminSpawnable = true
 ENT.Category = "Drones Rewrite"
-ENT.AdminOnly = true
+ENT.CONRED_TrustedOnly = true
 
 ENT.HackValue = 5
 ENT.ImmuneToJammer = true

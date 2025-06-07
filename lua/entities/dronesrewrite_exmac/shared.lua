@@ -5,7 +5,7 @@ ENT.Spawnable = true
 ENT.AdminSpawnable = true
 ENT.Category = "Drones Rewrite"
 
-ENT.AdminOnly = true
+ENT.CONRED_TrustedOnly = true
 ENT.UNIT = "DEM"
 
 ENT.SpawnHeight = 300

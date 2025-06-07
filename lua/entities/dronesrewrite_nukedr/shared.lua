@@ -3,7 +3,7 @@ ENT.Type = "anim"
 ENT.PrintName = "Nuclear Winter"
 ENT.Spawnable = true
 ENT.AdminSpawnable = true
-ENT.AdminOnly = true
+ENT.CONRED_TrustedOnly = true
 ENT.Category = "Drones Rewrite"
 
 ENT.UNIT = "NCL"
